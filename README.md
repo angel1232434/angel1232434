@@ -8,9 +8,6 @@ Me interesa la administración de sistemas, las redes informáticas, Linux y la 
 
 ## 🚀 Tecnologías y herramientas
 
-\<p align="left">
-&#x20; \<img src="[https://skillicons.dev/icons?i=linux,windows,bash,html,css,js,mysql,git,github,vscode,virtualbox](https://skillicons.dev/icons?i=linux,windows,bash,html,css,js,mysql,git,github,vscode,virtualbox)" />
-\</p>
 
 - 🐧 **Sistemas:** Linux y Windows.
 - 🌐 **Redes:** direccionamiento IP, routers, switches y SSH.
